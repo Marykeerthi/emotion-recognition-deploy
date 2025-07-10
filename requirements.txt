@@ -1,7 +1,6 @@
-tensorflow>=2.16,<2.18
 streamlit
+tensorflow>=2.16,<2.18
 numpy
-pandas
-matplotlib
-Pillow
+pillow
+opencv-python-headless
 
